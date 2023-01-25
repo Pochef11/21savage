@@ -1,0 +1,32 @@
+{
+    "short_name": "musica",
+    "name": "21 savage",
+    "icons" : [
+        {
+            "src": "/21.jpg",
+            "sizes": "250x350",
+            "type": "image/jpg"
+        },
+        {
+            "src": "/video/21video.mp4",
+            "sizes": "650x550",
+            "type": "video/mp4"
+        },
+        {
+            "src": "/audio/21 Savage - a lot ft. J. Cole.mp3",
+            "sizes": "",
+            "type": "audio/mp3"
+        },
+        {
+            "src": "/img/heroes.jfif",
+            "sizes": "300x300",
+            "type": "image/jfif"
+        }
+    ],
+    "star_url": "index.html",
+    "background_color": "#866a66",
+    "display": "",
+    "scope": "/",
+    "theme_color": "#7C1808",
+    "description": "information about rapper 21 savage"
+}

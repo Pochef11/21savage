@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Creepster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tenor+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans+SC:wght@100;500&display=swap');
+
+body{
+    background-color: #866a66;
+}
+
+
+.titulo{
+    font-family: Creepster;
+    color:#7C1808;
+    text-align: center;
+    font-size: 200px;
+}
+
+.foto{
+    text-align: center;
+}
+.primerT{
+    text-align: justify;
+    font-family:Tenor Sans ;
+    color:#5f1408 ;
+    margin: 50px;
+}
+
+.titulo_2{
+    text-align: center;
+    font-size: 30px;
+    font-family:Anton ;
+    background-color: aliceblue;
+
+}
+
+.canciones{
+    text-align: center;
+    font-size: 30px;
+    font-family:Alegreya Sans SC ;
+}
+
+.multimedia{
+    text-align: center;
+}
+
+.demas{
+    
+    text-align: center;
+    font-family:Tenor Sans ;
+    color:#5f1408 ;
+}
+
+.pruebaJS{
+    text-align: center;
+}
