@@ -10,7 +10,7 @@ const APP_SHELL = [
     "21.jpg",
 ];
 
-self.aaddEventListener("install", (e) =>{
+self.addEventListener("install", (e) =>{
     const cacheStatic = caches
         .open(STATTIC_CACHE)
         .then((cache) => cache.addAll(APP_SHELL));
