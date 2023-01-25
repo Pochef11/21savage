@@ -12,7 +12,7 @@ const APP_SHELL = [
 
 self.addEventListener("install", (e) =>{
     const cacheStatic = caches
-        .open(STATTIC_CACHE)
+        .open(STATIC_CACHE)
         .then((cache) => cache.addAll(APP_SHELL));
     
     e.waitUntill(cacheStatic);
