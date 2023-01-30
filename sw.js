@@ -2,12 +2,17 @@ const STATTIC_CACHE = "static";
 
 const APP_SHELL = [
     "/",
-    "index.html",
-    "index.css",
-    "script.js",
-    "main.js",
-    "sw.js",
+    "/audio/21 Savage - a lot ft. J. Cole.mp3",
+    "/img/drakeW21.jpg",
+    "/img/heroes.jfif",
+    "/video/21video.mp4",
     "21.jpg",
+    "index.css",
+    "index.html",
+    "main.js",
+    "script.js",
+    "sw.js"
+    
 ];
 
 self.addEventListener("install", (e) =>{
